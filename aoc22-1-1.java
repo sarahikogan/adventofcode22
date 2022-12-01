@@ -4,7 +4,7 @@ import java.util.*;
 
 
 
-public class aoc22-d1c1 {
+public class aoc22-1-1 {
 
     public static void main(String[] args) {
 
